@@ -55,4 +55,4 @@ I love solving problems, building projects, and continuously learning new techno
 
 ---
 
-⭐️ **“Code is like humor. When you have to explain it, it’s bad.”**
+⭐️ **“Making People Smile With Software.”**
