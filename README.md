@@ -8,7 +8,7 @@ I love solving problems, building projects, and continuously learning new techno
 - 🎓 **Bachelor’s in Information Technology**, York University (2022–2026)  
 - 💡 Interested in **Algorithms**, **Software-Defined Networks**, and **Backend**  
 - 🧩 Enjoys designing scalable systems and writing clean, maintainable code  
-- 🌱 Currently exploring **Spring Boot**, **Embedded Programming**, and **System Architecture**
+- 🌱 Currently exploring **Embedded Programming**, and **System Architecture**
 
 ---
 
