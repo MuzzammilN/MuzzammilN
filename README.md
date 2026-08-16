@@ -1,5 +1,5 @@
 # Muzzammil Naqvi
-IT and Software Engineer focused on building reliable backend systems, automation tools, and infrastructure
+IT enthusiast focused on building reliable systems, automation tools, and infrastructure
 
 I work on infrastructure and software systems focused on improving reliability through automation, and observability
 
